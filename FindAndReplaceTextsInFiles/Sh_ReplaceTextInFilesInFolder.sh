@@ -18,7 +18,7 @@ IFS=$'\n' # nuevo separador de campo, el caracter fin de línea
 #Variables
 xFecHorLog=`date +"%Y%m%d"_"%H%M%S"`
 xFecHorFile=`date +"%Y%m%d"`
-xPathresult="/home/risorse/S0006117"
+xPathresult=`pwd`
 xPathlog="${xPathresult}/log"
 xShellFind="${xPathresult}/Sh_find_text_in_files.sh"
 xShellReplace="${xPathresult}/Sh_replace_text_in_files.sh"

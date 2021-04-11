@@ -1,0 +1,4 @@
+textoabuscar1	textoareemplazar1
+textoabuscar2	textoareemplazar2
+textoabuscar3	textoareemplazar3
+textoabuscar4	textoareemplazar4
