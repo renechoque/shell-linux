@@ -4,7 +4,7 @@
 # Creado por         :   RC                                                                     #
 # Fecha Creacion     :   12/03/2021                                                             #
 # Parametros         :   $1 Path to find                                                        #
-# Parametros         :   $2 file type to find                                                        #
+# Parametros         :   $2 file type to find                                                   #
 # Parametros         :   $3 text to find                                                        #
 #                                                                                               #
 # Descripcion        :  Buscar archivos que contiene una texto                                  #

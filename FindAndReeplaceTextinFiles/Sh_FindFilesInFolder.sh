@@ -1,6 +1,6 @@
 ﻿#!/bin/sh
 #################################################################################################
-# Nombre del shell   :   Sh_FindFilesInFolder.sh                                           #
+# Nombre del shell   :   Sh_FindFilesInFolder.sh                                                #
 # Creado por         :   RC                                                                     #
 # Fecha Creacion     :   30/03/2021                                                             #
 # Parametros         :   $1 Path to find                                                        #
